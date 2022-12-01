@@ -151,7 +151,7 @@ about operating system, web server used, Server Uptime, Netblock Owner, history 
 
 ### malReq.py
 it is a very simple python script for testing malformed requests 
-- OWASP-Scripts/malReq.py
+[ OWASP-Scripts/malReq.py](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OWASP-Scripts/malReq.py)
 
 ## References
 
