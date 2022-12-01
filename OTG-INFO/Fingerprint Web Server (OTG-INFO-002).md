@@ -149,6 +149,10 @@ like httprint
 Online tools can be used if the tester wishes to test more stealthily and doesn’t wish to directly connect to the target website. An example of an online tool that often delivers a lot of information about target Web Servers, is Netcraft. With this tool we can retrieve information
 about operating system, web server used, Server Uptime, Netblock Owner, history of change related to Web server and O.S.
 
+### malReq.py
+it is a very simple python script for testing malformed requests 
+- https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OWASP-Scripts/malReq.py
+
 ## References
 
 Whitepapers
