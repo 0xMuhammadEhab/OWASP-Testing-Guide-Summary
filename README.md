@@ -6,6 +6,7 @@
 [Fingerprint Web Server (OTG-INFO-002)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INFO/Fingerprint%20Web%20Server%20(OTG-INFO-002).md)
 
 [Review Webserver Metafiles (OTG-INFO-003)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INFO/Review%20Webserver%20Metafiles%20for%20Information%20Leakage%20(OTG-INFO-003).md)
+
 [Identify application entry points (OTG-INFO-006)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INFO/Identify%20application%20entry%20points%20(OTG-INFO-006).md)
 
 ## Input Validation
