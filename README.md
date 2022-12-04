@@ -9,5 +9,7 @@
 
 [Identify application entry points (OTG-INFO-006)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INFO/Identify%20application%20entry%20points%20(OTG-INFO-006).md)
 
+[Map execution paths through application (OTG-INFO-007)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INFO/Map%20execution%20paths%20through%20application%20(OTG-INFO-007).md)
+
 ## Input Validation
 [HTTP Parameter pollution (OTG-INPVAL-004)](https://github.com/0x3h4b/OWASP-Testing-Guide-Summary/blob/main/OTG-INPVAL/HTTP%20Parameter%20pollution%20(OTG-INPVAL-004).md)
